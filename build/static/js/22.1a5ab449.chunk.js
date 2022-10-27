@@ -1,0 +1,2 @@
+(this.webpackJsonpadmin=this.webpackJsonpadmin||[]).push([[22],{487:function(s,t,n){"use strict";n.r(t);var a=n(10),e=n(2);t.default=function(){return Object(e.jsx)(a.a,{to:"/empresas"})}}}]);
+//# sourceMappingURL=22.1a5ab449.chunk.js.map

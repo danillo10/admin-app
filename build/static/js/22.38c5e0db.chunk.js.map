@@ -1,1 +1,0 @@
-{"version":3,"sources":["pages/Index/index.jsx"],"names":["Page","to"],"mappings":"iGAAA,0BAMeA,UAJF,WACX,OAAO,cAAC,IAAD,CAAUC,GAAG,aACrB,C","file":"static/js/22.38c5e0db.chunk.js","sourcesContent":["import { Redirect } from 'react-router-dom'\n\nconst Page = () => {\n  return <Redirect to=\"/empresas\" />\n}\n\nexport default Page"],"sourceRoot":""}
